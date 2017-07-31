@@ -1,0 +1,25 @@
+{
+  "name": "hackathon-web-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngalstyan4/hackathon-web-template.git"
+  },
+  "author": "Narek Galstyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ngalstyan4/hackathon-web-template/issues"
+  },
+  "homepage": "https://github.com/Ngalstyan4/hackathon-web-template#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
